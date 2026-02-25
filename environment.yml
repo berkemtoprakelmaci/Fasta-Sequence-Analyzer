@@ -1,0 +1,7 @@
+name: fasta-toolkit
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib=3.8
