@@ -1,4 +1,4 @@
-# FASTA Sequence Analysis Toolkit
+# FASTA Sequence Analyzer
 
 A modular command-line toolkit for FASTA sequence analysis.  
 Each analysis module works standalone or through the unified `seqtools.py` entry point.
